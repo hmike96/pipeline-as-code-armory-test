@@ -1,21 +1,16 @@
 {
-  "application": "yourspinnakerapplicationname",
+  "application": "helloworldapp",
   "pipelines": [
     {
-      "application": "yourspinnakerapplicationname",
-      "keepWaitingPipelines": false,
-      "limitConcurrent": true,
-      "name": "Made By Armory Pipeline Templates",
+      "application": "helloworldapp",
+      "name": "my-pipeline-name",
       "stages": [
         {
-          "name": "Wait",
-          "refId": "1",
-          "requisiteStageRefIds": [],
+          "name": "one",
           "type": "wait",
           "waitTime": 10
         }
-      ],
-      "triggers": []
+      ]
     }
   ]
 }
