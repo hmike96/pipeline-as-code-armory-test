@@ -2,7 +2,7 @@
   "application": "please-work",
   "pipelines": [
     {
-      "application": "helloworldapp",
+      "application": "please-work",
       "name": "my-pipeline-name",
       "stages": [
         {
