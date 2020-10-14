@@ -6,7 +6,7 @@
       "name": "test-pipeline",
       "stages": [
         {
-          "name": "three",
+          "name": "four",
           "type": "wait",
           "waitTime": 40
         }
