@@ -1,9 +1,9 @@
 {
-  "application": "please-work",
+  "application": "test-application",
   "pipelines": [
     {
-      "application": "please-work",
-      "name": "my-pipeline-name",
+      "application": "test-application",
+      "name": "test-pipeline",
       "stages": [
         {
           "name": "three",
