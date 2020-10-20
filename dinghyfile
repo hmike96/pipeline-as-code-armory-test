@@ -11,6 +11,17 @@
           "waitTime": 40
         }
       ]
+    },
+    {
+      "application": "test-application",
+      "name": "test-pipeline-2",
+      "stages": [
+        {
+          "name": "two",
+          "type": "wait",
+          "waitTime": 40
+        }
+      ]
     }
   ]
 }
